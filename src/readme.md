@@ -1,0 +1,1 @@
+The Task: Create a large Vec<u64> (e.g., 1 million numbers). Divide the vector into 4 "chunks" and spawn 4 threads. Each thread calculates the sum of its chunk, and the main thread adds those 4 sums together.
