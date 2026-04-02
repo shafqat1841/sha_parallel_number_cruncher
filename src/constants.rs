@@ -1,0 +1,1 @@
+pub const THREADS_NUMBER: usize = 4;
